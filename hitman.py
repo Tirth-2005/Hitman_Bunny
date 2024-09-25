@@ -20,7 +20,7 @@ def initGame():
         else:
             game_images[key] = pygame.image.load(value)
     
-    game_sounds = {}
+    game_sounds = {}                         
     for key, value in cfg.AUDIO.items():
         if key != 'moonlight':
             game_sounds[key] = pygame.mixer.Sound(value)
