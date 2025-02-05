@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Sample Image" width="250">
+  <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Sample Image" width="250" height="400">
 </p>
 
 
