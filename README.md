@@ -1,5 +1,5 @@
 <p align="right">
-  <img src=" https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Sample Image" width="150">
+  <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Sample Image" width="150">
 </p>
 
 This is some sample text that will stay on the left side while the image appears on the right.
