@@ -1,12 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 70%;">  
-    <p>This is some text. It will appear on the left side of the image.</p>
-    <p>Add more paragraphs or text here.</p>
-  </div>
-  <div style="width: 25%;">
-    <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Image" style="max-width: 50%; height: auto;">
-  </div>
-</div>
+<p align="right">
+  <img src=" https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Sample Image" width="150">
+</p>
+
+This is some sample text that will stay on the left side while the image appears on the right.
 
 
 
