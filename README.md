@@ -4,7 +4,7 @@
     <p>Add more paragraphs or text here.</p>
   </div>
   <div style="width: 25%;">
-    <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Image" style="max-width: 100%; height: auto;">
+    <img src="https://github.com/Tirth-2005/Hitman_Bunny/blob/master/resources/images/logo.png" alt="Image" style="max-width: 50%; height: auto;">
   </div>
 </div>
 
